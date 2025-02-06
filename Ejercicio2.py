@@ -15,3 +15,4 @@ print(constantes.datos)
 
 var1 = var2 = var3 = "Emilio", "Pablo", "Adrian"
 print(var1, var3, var2)
+#Fin
